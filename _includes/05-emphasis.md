@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am a cool guy*
+**im a super cool guy**
+__github is kinda nice__
